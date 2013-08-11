@@ -2,11 +2,12 @@
 <metadata>
   <groupId>net.simonvt.menudrawer</groupId>
   <artifactId>menudrawer</artifactId>
-  <version>3.0.2</version>
+  <version>3.0.3</version>
   <versioning>
     <versions>
       <version>3.0.2</version>
+      <version>3.0.3</version>
     </versions>
-    <lastUpdated>20130712172552</lastUpdated>
+    <lastUpdated>20130715130856</lastUpdated>
   </versioning>
 </metadata>
