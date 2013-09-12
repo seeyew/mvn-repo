@@ -5,7 +5,7 @@ Simply add the repository to your build.gradle file:
 
     repositories {
         maven {
-            url 'https://github.com/Goddchen/mvn-repo/raw/master/'
+            url 'https://github.com/donnfelker/mvn-repo/raw/master/'
         }
         mavenCentral()
     }
